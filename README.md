@@ -14,6 +14,8 @@ Saya adalah mahasiswa Teknik Informatika yang memiliki *passion* dalam pengemban
 **Framework**
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 **Keterampilan Non-Teknis (Soft Skills)**
 
